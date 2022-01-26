@@ -1,0 +1,19 @@
+@media screen and ( max-width:480px ) and ( min-width: 320px){
+    body{
+        background-color: red;
+    }
+    header ul a {
+        font-size: 75px;
+    }
+
+}   
+
+
+@media screen and (max-width: 678px ) and ( min-width: 481px){
+    body{
+        background-color: yellow;
+    }
+    header ul a {
+        font-size: 125px;
+    }
+}
